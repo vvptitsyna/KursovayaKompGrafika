@@ -1,0 +1,12 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+C:\Users\Антон\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Антон\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Антон\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,49): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Generating Code...
+  OpenGLrememberProj.vcxproj -> C:\Users\Антон\Desktop\grafika_lab2-master\Debug\OpenGLrememberProj.exe
